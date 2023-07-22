@@ -1,2 +1,11 @@
-Developed and implemented an efficient airline management system, effectively handling customer information and travel details. Streamlined the process of booking and traveling through airlines, enhancing user experience and satisfaction.
-Demonstrated a deep passion for airline industry by creating a user-friendly platform that seamlessly manages airlines and travel information. Utilized advanced technology to optimize the management of customer data and ensure a smooth and hassle-free travel experience.Successfully integrated various features into the system, enabling users to easily access and book flights, enhancing overall efficiency.
+# Airline-Project
+Airline Management Project
+
+It is basically a simple implementation of an Airline Management System. 
+Not that complex but should do the work for you.
+Import the sql file "database_file.sql" in phpmyadmin.
+To access the homepage of the website open "website.php".
+
+
+
+And yes, I know I haven't use external css and I'm extremely sorry about that :p
